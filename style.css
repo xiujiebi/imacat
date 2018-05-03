@@ -1,0 +1,887 @@
+body{
+  background-color:#F8F4E3;
+  margin:0px;
+}
+
+
+h1{
+  font-family: 'Fredoka One', cursive;
+  position: absolute;
+    left: 54%;
+    top: 0%;
+  font-size: 80px;
+  
+}
+.backgroundleft{
+  background-color:#D2BBA0;
+  height:850px;
+  width:370px;
+  margin-left:160px;
+  
+ 
+}
+
+
+.midwhite{
+  width: 200px;
+    height:144px;
+  background-color:#D2BBA0;
+  
+  position: absolute;
+  left: 31%;
+  
+  top: 3%;
+  border-radius:109px;
+}
+
+#midwhite:hover{
+  width:140px;
+  height:auto;
+  transition: .5s;
+  
+}
+
+.midgrey{
+  width: 200px;
+    height:144px;
+  background-color:#D2BBA0;
+  
+  position: absolute;
+  left: 31%;
+  
+  top: 23%;
+  border-radius:109px;
+}
+#midgrey:hover{
+  width:140px;
+  height:auto;
+  transition: .5s;
+  
+}
+.middark{
+  width: 200px;
+    height:144px;
+  background-color:#D2BBA0;
+  
+  position: absolute;
+  left: 31%;
+  
+  top: 43%;
+  border-radius:109px;
+}
+#middark:hover{
+  width:140px;
+  height:auto;
+  transition: .5s;
+  
+}
+.midmix{
+  width: 200px;
+    height:144px;
+  background-color:#D2BBA0;
+  
+  position: absolute;
+  left: 31%;
+  
+  top: 63%;
+  border-radius:109px;
+}
+#midmix:hover{
+  width:140px;
+  height:auto;
+  transition: .5s;
+  
+}
+
+.midcream{
+  width: 200px;
+    height:144px;
+  background-color:#D2BBA0;
+  
+  position: absolute;
+  left: 31%;
+  
+  top: 83%;
+  border-radius:109px;
+}
+#midcream:hover{
+  width:140px;
+  height:auto;
+  transition: .5s;
+  
+}
+/* .yarn{
+  position: absolute;
+  left: 20%;
+  top: 35%;
+}
+
+.fish{
+  position: absolute;
+  left: 20%;
+  top: 56%;
+} */
+
+/* .line1{
+  border-left: 1px solid grey;
+    height: 900px;
+    position: absolute;
+    left: 20%;
+    margin-left: -3px;
+    top: 0;
+}
+
+.line2{
+  border-left: 1px solid grey;
+    height: 900px;
+    position: absolute;
+    left: 40%;
+    margin-left: -3px;
+    top: 0;
+}
+
+.line3{
+  border-left: 1px solid grey;
+    height: 900px;
+    position: absolute;
+    left: 60%;
+    margin-left: -3px;
+    top: 0;
+}
+
+.line4{
+  border-left: 1px solid grey;
+    height: 900px;
+    position: absolute;
+    left: 80%;
+    margin-left: -3px;
+    top: 0;
+}
+.line5{
+  border-left: 1px solid grey;
+    height: 900px;
+    position: absolute;
+    left: 50%;
+    margin-left: -3px;
+    top: 0;
+}
+
+
+.line6{
+  border-top: 1px solid grey;
+    width: 1500px;
+    position: absolute;
+    left: 0;
+    margin-left: -3px;
+    top: 20%;
+}
+
+.line7{
+  border-top: 1px solid grey;
+    width: 1500px;
+    position: absolute;
+    left: 0;
+    margin-left: -3px;
+    top: 40%;
+}
+
+.line8{
+  border-top: 1px solid grey;
+    width: 1500px;
+    position: absolute;
+    left: 0;
+    margin-left: -3px;
+    top: 60%;
+}
+
+.line9{
+  border-top: 1px solid grey;
+    width: 1500px;
+    position: absolute;
+    left: 0;
+    margin-left: -3px;
+    top: 80%;
+}
+
+.line10{
+  border-top: 1px solid grey;
+    width: 1500px;
+    position: absolute;
+    left: 0;
+    margin-left: -3px;
+    top: 50%;
+} */
+
+.midwhite{
+
+    position: absolute;
+    left: 5%;
+    margin-left: -3px;
+    top: 4%;
+ 
+}
+
+.midgrey{
+
+    position: absolute;
+    left: 5%;
+    margin-left: -3px;
+    top: 24%;
+    
+}
+
+.middark{
+
+    position: absolute;
+    left: 5%;
+    margin-left: -3px;
+    top: 44%;
+  
+}
+
+.midmix{
+
+    position: absolute;
+    left: 5%;
+    margin-left: -3px;
+    top: 64%;
+ 
+}
+
+.midcream{
+
+    position: absolute;
+    left: 5%;
+    margin-left: -3px;
+    top: 84%;
+}
+
+
+.drawer{
+    width: 170px;
+    height:100px;
+  background-color:#F8F4E3;
+  
+  position: absolute;
+  left: 31%;
+  margin-left: -3px;
+  top: 5%;
+  overflow: scroll;
+  border-radius:50px;
+    cursor: url(https://cdn.glitch.com/d1be616f-2f38-4a63-8b42-04ee9c7470c7%2Fpaw%20open.png?1525220085601), auto !important;
+
+}
+
+.drawer:hover{
+    width: 170px;
+    height:130px;
+  background-color:#F8F4E3;
+  
+  position: absolute;
+  left: 31%;
+  margin-left: -3px;
+  top: 5%;
+  overflow: scroll;
+  border-radius:50px;
+  transition: .5s;
+/*   cursor: url(https://cdn.glitch.com/d1be616f-2f38-4a63-8b42-04ee9c7470c7%2Fpaw%20close.png?1525220085478), auto; */
+}
+
+
+.drawer2{
+    width: 170px;
+    height:100px;
+  background-color:#F8F4E3;
+  
+  position: absolute;
+  left: 31%;
+  margin-left: -3px;
+  top: 25%;
+  overflow: scroll;
+  border-radius:50px;
+/*   cursor: url(https://cdn.glitch.com/d1be616f-2f38-4a63-8b42-04ee9c7470c7%2Fpaw%20close.png?1525220085478), auto; */
+}
+.drawer2:hover{
+    width: 170px;
+    height:137px;
+  background-color:#F8F4E3;
+  
+  position: absolute;
+  left: 31%;
+  margin-left: -3px;
+  top: 25%;
+  overflow: scroll;
+  border-radius:50px;
+  transition: .5s;
+
+}
+.drawer3{
+    width: 170px;
+    height:100px;
+  background-color:#F8F4E3;
+  
+  position: absolute;
+  left: 31%;
+  margin-left: -3px;
+  top: 45%;
+  overflow: scroll;
+border-radius:50px;
+}
+
+.drawer3:hover{
+    width: 170px;
+    height:137px;
+  background-color:#F8F4E3;
+  
+  position: absolute;
+  left: 31%;
+  margin-left: -3px;
+  top: 45%;
+  overflow: scroll;
+  border-radius:50px;
+  transition: .5s;
+
+}
+
+.drawer4{
+    width: 170px;
+    height:100px;
+  background-color:#F8F4E3;
+  
+  position: absolute;
+  left: 31%;
+  margin-left: -3px;
+  top: 65%;
+  overflow: scroll;
+border-radius:50px;
+}
+
+.drawer4:hover{
+    width: 170px;
+    height:137px;
+  background-color:#F8F4E3;
+  
+  position: absolute;
+  left: 31%;
+  margin-left: -3px;
+  top: 65%;
+  overflow: scroll;
+  border-radius:50px;
+  transition: .5s;
+
+}
+.drawer5{
+    width: 170px;
+    height:100px;
+  background-color:#F8F4E3;
+  
+  position: absolute;
+  left: 31%;
+  margin-left: -3px;
+  top: 85%;
+  overflow: scroll;
+  border-radius:50px;
+}
+
+.drawer5:hover{
+    width: 170px;
+    height:137px;
+  background-color:#F8F4E3;
+  
+  position: absolute;
+  left: 31%;
+  margin-left: -3px;
+  top: 85%;
+  overflow: scroll;
+  border-radius:50px;
+  transition: .5s;
+
+}
+
+.drawer img {
+    position: relative;
+    left:10%;
+    margin-top:16px;
+    margin-bottom:10px;
+    padding: 10px;
+ }
+
+.drawer #redglasses {
+    position: relative;
+    left:10%;
+    margin-top:30px;
+    margin-bottom:10px;
+    padding: 10px;
+ }
+.drawer #sunglasses {
+    position: relative;
+    left:10%;
+    margin-top:30px;
+    margin-bottom:33px;
+    padding: 10px;
+ }
+.drawer2 img {
+    position: relative;
+    left:10%;
+    margin-top:5px;
+    margin-bottom:10px;
+    padding: 10px;
+ }
+
+.drawer2 #nyhat {
+    position: relative;
+    left:10%;
+    margin-top:2px;
+    margin-bottom:10px;
+    padding: 10px;
+ }
+.drawer2 #beret {
+    position: relative;
+    left:10%;
+    margin-top:0px;
+    margin-bottom:10px;
+    padding: 10px;
+ }
+
+
+.drawer2 #ear {
+    position: relative;
+    left:10%;
+    margin-top:0px;
+    margin-left:20px;
+    margin-bottom:28px;
+    padding: 10px;
+  overflow: hidden;
+ }
+
+.drawer3 img {
+    position: relative;
+    left:10%;
+    margin-top:10px;
+    margin-bottom:3px;
+    padding: 10px;
+ }
+.drawer3 #boots {
+    position: relative;
+    left:10%;
+    margin-top:10px;
+    margin-bottom:32px;
+    padding: 10px;
+ }
+
+.drawer4 img {
+    position: relative;
+    left:22%;
+    margin-top:7px;
+    margin-bottom:3px;
+    padding: 10px;
+ }
+.drawer4 #laptop {
+    position: relative;
+    left:22%;
+    margin-top:7px;
+    margin-bottom:40px;
+    padding: 10px;
+ }
+.drawer4 #cake {
+    position: relative;
+    left:22%;
+    margin-top:7px;
+    margin-bottom:15px;
+    padding: 10px;
+ }
+
+.drawer4 img {
+    position: relative;
+    left:22%;
+    margin-top:3px;
+    margin-bottom:3px;
+    padding: 10px;
+ }
+.drawer5 img {
+    position: relative;
+    left:20%;
+    margin-top:15px;
+    margin-bottom:7px;
+    padding: 10px;
+ }
+.drawer5 #teeth {
+    position: relative;
+    left:20%;
+    margin-top:15px;
+    margin-bottom:37px;
+    padding: 10px;
+ }
+.drawer5 #tongue {
+    position: relative;
+    left:20%;
+    margin-top:15px;
+    margin-bottom:2px;
+    padding: 10px;
+ }
+
+/* BIG CAT STACKING/////////////////////////////////////////////// *//* /////////////////////////////////////////////// */
+.final {
+  position: absolute;
+  top: 35%;
+  left: 50%;
+}
+.whitemid {
+  position: relative;
+  top: 0;
+  left: 40px;
+  z-index: 1;
+  display:block;
+}
+
+.greymid {
+  position: absolute;
+  top: 0;
+  left: 40px;
+  z-index: 2;
+  display:block;
+}
+.darkmid{
+  position: absolute;
+  top: 0;
+  left: 40px;
+  z-index: 3;
+  display:none;
+}
+.greymid{
+position: absolute;
+  top: 0;
+  left: 40px;
+  z-index: 4;
+  display:none;
+}
+.creammid{
+position: absolute;
+  top: 0;
+  left: 40px;
+  z-index: 5;
+  display:none;
+}
+.mixmid{
+position: absolute;
+  top: 0;
+  left: 40px;
+  z-index: 6;
+  display:none;
+}
+/* /////////////////////////////////////////////// */
+.whitethin {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 6;
+  display:none;
+}
+.greythin {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 7;
+  display:block;
+}
+.darkthin{
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 8;
+  display:none;
+}
+.greythin{
+position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 9;
+  display:none;
+}
+.creamthin{
+position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 10;
+  display:none;
+}
+.mixthin{
+position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 11;
+  display:none;
+}
+/* /////////////////////////////////////////////// */
+.whitefat {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  z-index: 12;
+  display:none;
+}
+.greyfat {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  z-index: 13;
+  display:none;
+}
+.darkfat{
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  z-index: 14;
+  display:none;
+}
+.greyfat{
+position: absolute;
+  top: 20px;
+  left: 20px;
+  z-index: 15;
+  display:none;
+}
+.creamfat{
+position: absolute;
+  top: 20px;
+  left: 20px;
+  z-index: 16;
+  display:none;
+}
+.mixfat{
+position: absolute;
+  top: 20px;
+  left: 20px;
+  z-index: 17;
+  display:block;
+}
+/* /////////////////////////////////////////////// FAT stuff */
+.redglassesfat {
+  position: absolute;
+  top: 117px;
+  left: 82px;
+  z-index: 18;
+  display:none;
+}
+.roundglassesfat {
+  position: absolute;
+  top: 86px;
+  left: 84px;
+  z-index: 19;
+  display:none;
+}
+.sunglassesfat {
+  position: absolute;
+  top: 86px;
+  left: 82px;
+  z-index: 20;
+  display:none;
+}
+
+/* /////////////////////////////////////////////// */
+.nyhatfat {
+  position: absolute;
+  top: -22px;
+  left: 85px;
+  z-index: 21;
+  display:none;
+}
+.beretfat {
+  position: absolute;
+  top: -8px;
+  left: 89px;
+  z-index: 22;
+  display:none;
+}
+.earfat {
+  position: absolute;
+  top: -105px;
+  left: 90px;
+  z-index: 23;
+  display:none;
+}
+
+/* /////////////////////////////////////////////// */
+.pinkshoesfat {
+  position: absolute;
+  top: 425px;
+  left: 220px;
+  z-index: 24;
+  display:none;
+}
+.socksfat {
+  position: absolute;
+  top: 450px;
+  left: 222px;
+  z-index: 25;
+  display:none;
+}
+.bootsfat {
+  position: absolute;
+  top: -105px;
+  left: 90px;
+  z-index: 26;
+  display:none;
+}
+
+/* /////////////////////////////////////////////// */
+.coffeefat {
+  position: absolute;
+  top: 386px;
+  left: -13px;
+  z-index: 27;
+  display:none;
+}
+.cakefat {
+  position: absolute;
+  top: 386px;
+  left: -13px;
+  z-index: 28;
+  display:none;
+}
+.laptopfat {
+  position: absolute;
+  top: 386px;
+  left: -13px;
+  z-index: 29;
+  display:none;
+}
+
+/* /////////////////////////////////////////////// */
+.lipsfat {
+  position: absolute;
+  top: 151px;
+  left: 130px;
+  z-index: 30;
+  display:none;
+}
+.tonguefat {
+  position: absolute;
+  top: 148px;
+  left: 125px;
+  z-index: 31;
+  display:none;
+}
+.teethfat {
+  position: absolute;
+  top: 144px;
+  left: 134px;
+  z-index: 32;
+  display:none;
+}
+
+/* ///////////////////////////////////////////////MID *//* /////////////////////////////////////////////// */
+
+.redglassesmid {
+  position: absolute;
+  top: 101px;
+  left: 97px;
+  z-index: 18;
+  display:none;
+}
+.roundglassesmid {
+  position: absolute;
+  top: 75px;
+  left: 97px;
+  z-index: 19;
+  display:none;
+}
+.sunglassesmid {
+  position: absolute;
+  top: 58px;
+  left:97px;
+  z-index: 20;
+  display:none;
+}
+
+/* /////////////////////////////////////////////// */
+.nyhatmid {
+  position: absolute;
+  top: -33px;
+  left: 94px;
+  z-index: 21;
+  display:none;
+}
+.beretmid {
+  position: absolute;
+  top: -30px;
+  left: 107px;
+  z-index: 22;
+  display:none;
+}
+.earmid {
+  position: absolute;
+  top: -114px;
+  left: 124px;
+  z-index: 23;
+  display:none;
+}
+
+/* /////////////////////////////////////////////// */
+.pinkshoesmid {
+  position: absolute;
+  top: 428px;
+  left: 244px;
+  z-index: 24;
+  display:none;
+}
+.socksmid {
+  position: absolute;
+  top: 451px;
+  left: 244px;
+  z-index: 25;
+  display:none;
+}
+.bootsmid {
+  position: absolute;
+  top: 407px;
+  left: 230px;
+  z-index: 26;
+  display:none;
+}
+
+/* /////////////////////////////////////////////// */
+.coffeemid {
+  position: absolute;
+  top: 387px;
+  left: 31px;
+  z-index: 27;
+  display:none;
+}
+.cakemid {
+  position: absolute;
+  top: 387px;
+  left: 31px;
+  z-index: 28;
+  display:none;
+}
+.laptopmid {
+  position: absolute;
+  top: 387px;
+  left: 31px;
+  z-index: 29;
+  display:none;
+}
+
+/* /////////////////////////////////////////////// */
+.lipsmid {
+  position: absolute;
+  top: 140px;
+  left: 147px;
+  z-index: 30;
+  display:none;
+}
+.tonguemid {
+  position: absolute;
+  top: 134px;
+  left: 140px;
+  z-index: 31;
+  display:none;
+}
+.teethmid {
+  position: absolute;
+  top: 129px;
+  left: 148px;
+  z-index: 32;
+  display:none;
+}
