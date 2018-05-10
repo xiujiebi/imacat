@@ -1,3 +1,12 @@
+
+$("#refresh").click(function() {
+  $(".glasses").hide();
+  $(".hat").hide();
+  $(".mouth").hide();
+  $(".stuff").hide();
+  $(".shoes").hide();
+ });
+
 $("#roundglasses").click(function() {
   $(".glasses").hide();
   $(".roundglassesmid").show();
